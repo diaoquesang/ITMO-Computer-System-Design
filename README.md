@@ -46,8 +46,14 @@
 15. [Basic Communications Optimization | Shared Memory Integration | Cache Coherence](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_15-Comm_coher.pdf)
 16. [Bus Architectures | Networks on Chip | Open-Source NoCs](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_16-Bus_arch_NoCs.pdf)
 
+# Course List
+
+1. [\[Computer Science\] Computer System Design, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-System-Design/)
+2. [\[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-Vision/)
+
 > If you have any questions or suggestions during the learning process, you can contact us through the following ways:
 > 
 > 📧 Email: diaoquesang@gmail.com
 > 
 > ❓ GitHub Issues: https://github.com/diaoquesang/ITMO-Computer-System-Design/issues
+
