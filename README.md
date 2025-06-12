@@ -28,7 +28,7 @@
 7. [Basics of Assembly Programming](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_7-ASM.pdf)
 8. [Operating Systems | Memory Virtualization](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_8-OS_virtmem.pdf)
 9. [Basic Microarchitectural Templates | Multi-Cycle and Pipelined Processors](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_9-Basic_uarch_templates.pdf)
-10. [Data flow optimization](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_10-Data_flow_opt.pdf)
+10. [Data Flow Optimization](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_10-Data_flow_opt.pdf)
 11. [Control Flow Optimization](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_11-Control_flow_opt.pdf)
 12. [Dynamic Branch Prediction | Open-Source Superscalar OoO CPU Cores](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_12-Dynamic_branch_prediction.pdf)
 13. [Memory Subsystem | Basic Optimizations](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_13-Basic_mem_opt.pdf)
