@@ -35,3 +35,9 @@
 14. [Caching](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_14-Caching.pdf)
 15. [Basic communications optimization | Shared memory integration | Cache coherence](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_15-Comm_coher.pdf)
 16. [Bus architectures | Networks on chip | Open-source NoCs](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_16-Bus_arch_NoCs.pdf)
+
+> If you have any questions or suggestions during the learning process, you can contact us through the following ways:
+> 
+> Email: diaoquesang@gmail.com
+> 
+> GitHub Issues: https://github.com/diaoquesang/ITMO-Computer-System-Design/issues
