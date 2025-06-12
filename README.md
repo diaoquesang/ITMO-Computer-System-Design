@@ -17,6 +17,10 @@
 
 </div>
 
+# Sample Page
+
+![image](https://github.com/user-attachments/assets/6162b3b6-d88c-4db4-a023-70d476361e0d)
+
 # Contents
 
 1. [General Terms of Computer Systems Design | Von Neumann Architecture](https://github.com/diaoquesang/ITMO-Computer-Systems-Design/blob/main/Lectures/CSD-Lec_1-Intro_arch_survey.pdf)
