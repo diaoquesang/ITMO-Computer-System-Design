@@ -5,7 +5,17 @@
 
 
 
-## 🤩 Welcome to the GitHub repository for the Computer System Design course at ITMO University! [![](https://img.shields.io/github/stars/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design) [![](https://img.shields.io/github/forks/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design) [![](https://img.shields.io/github/issues/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/issues) [![](https://img.shields.io/github/license/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/blob/main/LICENSE) [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design)
+## 🤩 Welcome to the Computer System Design course at ITMO University! 
+
+<div align="center">
+
+[![](https://img.shields.io/github/stars/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design) 
+[![](https://img.shields.io/github/forks/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design) 
+[![](https://img.shields.io/github/issues/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/issues) 
+[![](https://img.shields.io/github/license/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/blob/main/LICENSE) 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design)
+
+</div>
 
 # Contents
 
