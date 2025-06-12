@@ -48,7 +48,7 @@
 
 # Course List
 
-1. [\[Computer Science\] Computer System Design, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-System-Design/)
+1. [\[Computer Science\] Computer System Design, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-System-Design/) ⬅️
 2. [\[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-Vision/)
 
 > If you have any questions or suggestions during the learning process, you can contact us through the following ways:
