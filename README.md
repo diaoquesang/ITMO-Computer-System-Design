@@ -6,10 +6,10 @@
 
 <div align="center">
   
-[![](https://img.shields.io/github/stars/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/ITMO-Computer-System-Design)
-[![](https://img.shields.io/github/forks/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/ITMO-Computer-System-Design)
-[![](https://img.shields.io/github/issues/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/ITMO-Computer-System-Design/issues)
-[![](https://img.shields.io/github/license/diaoquesang/Paper-List-for-Medical-Anomaly-Detection)](https://github.com/diaoquesang/ITMO-Computer-System-Design/blob/main/LICENSE) 
+[![](https://img.shields.io/github/stars/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design)
+[![](https://img.shields.io/github/forks/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design)
+[![](https://img.shields.io/github/issues/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/issues)
+[![](https://img.shields.io/github/license/diaoquesang/ITMO-Computer-System-Design)](https://github.com/diaoquesang/ITMO-Computer-System-Design/blob/main/LICENSE) 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-System-Design)
 
 </div>
