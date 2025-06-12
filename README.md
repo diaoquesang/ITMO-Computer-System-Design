@@ -38,6 +38,6 @@
 
 > If you have any questions or suggestions during the learning process, you can contact us through the following ways:
 > 
-> Email: diaoquesang@gmail.com
+> 📧 Email: diaoquesang@gmail.com
 > 
-> GitHub Issues: https://github.com/diaoquesang/ITMO-Computer-System-Design/issues
+> ❓ GitHub Issues: https://github.com/diaoquesang/ITMO-Computer-System-Design/issues
