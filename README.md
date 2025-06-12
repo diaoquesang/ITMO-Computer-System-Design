@@ -1,6 +1,8 @@
 # \[Computer Science\] Computer System Design, ITMO University, Hangzhou, 2025
 
-### Welcome to the GitHub repository for the Computer System Design course at ITMO University! 
+![](https://github.com/user-attachments/assets/60c5cd5a-0455-4486-a44e-48398db58f3b)
+
+## 🤩 Welcome to the GitHub repository for the Computer System Design course at ITMO University! 
 
 # Contents
 
